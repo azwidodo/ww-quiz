@@ -24,3 +24,5 @@ def find_quiz_links():
 links = find_quiz_links()
 # print(links)
 print(len(set(links)))
+
+print(links)

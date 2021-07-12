@@ -1,5 +1,7 @@
 from msedge.selenium_tools import Edge, EdgeOptions
 
+# Launch Microsoft Edge (EdgeHTML)
+driver = Edge()
 
 # Launch Microsoft Edge (Chromium)
 options = EdgeOptions()
